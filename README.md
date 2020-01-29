@@ -14,7 +14,7 @@ Python OpenCV and React Native
 - Ardından "async.py" dosyasının ismini "aasync.py" olarak düzenleyin.
 - Ardından "firebase.py" dosyasında "from .async import process_pool" u "from .aasync import process_pool" olarak düzenleyin
 - Bunun haricinde bir hata ile karşılaşırsanız [benimle iletişime geçebilirsiniz.](mailto:imuratony@gmail.com?subject=[GitHub]%20OpenCV%20ReactNative%20Help!)
-
+- Video'ya [buradan](https://www.google.com) ulaşabilirsiniz.
 
 # OpenCv ve React Native Entegre Çalışması
 
